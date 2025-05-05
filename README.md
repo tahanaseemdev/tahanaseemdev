@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Naseem</h1>
-<h3 align="center">BSCS junior at University of South Asia</h3>
+<h3 align="center">BSCS student at University of South Asia</h3>
 <h3 align="center">I'm currently learning Web Development, mainly focusing on MERN Stack.</h3>
 <br>
 <h3 align="left">Connect with me:</h3>
