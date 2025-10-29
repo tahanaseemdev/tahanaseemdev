@@ -116,20 +116,19 @@
 
 ---
 
+<!-- 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tahanaseemdev&theme=radical&hide_border=true&background=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahanaseemdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahanaseemdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahanaseemdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117) 
 
 
 </div>
 
----
-
-<!-- ## 🏆 Highlights
+## 🏆 Highlights
 
 ```javascript
 const taha = {
