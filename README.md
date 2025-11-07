@@ -102,6 +102,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-6366F1?style=for-the-badge&logo=thunder&logoColor=white)
+![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-9B59B6?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
