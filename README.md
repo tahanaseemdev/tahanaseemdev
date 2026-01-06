@@ -23,7 +23,7 @@
 ## 🚀 About Me
 
 🎓 Final Year **BSCS Student** at *University of South Asia*  
-💼 **Full Stack Developer** at *Single Solution* (1+ year experience)  
+💼 **Full Stack Developer** at *Single Solution*
 🤖 Building **AI-powered and Cloud-deployed web apps**  
 🌱 Specialized in **MERN Stack**, **AI APIs**, and **Cloud Architecture**  
 ⚡ Passionate about creating intelligent, scalable digital solutions  
